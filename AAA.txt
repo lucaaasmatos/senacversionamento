@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 arquivo txt main snk
 versao2
+=======
+texto branch snk
+>>>>>>> 7a9915fc26eb2e14a1e5ab2db8a6ab2c8b4d34da
